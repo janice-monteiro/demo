@@ -1,4 +1,4 @@
-package com.dockerforjava.hello;
+package com.dockerforjavadevelopers.hello;
 
 import static org.junit.Assert.*;
 
